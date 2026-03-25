@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Junior Python Developer",
+    "company": "TechSoft",
+    "text": "Szukamy Junior Python Developera. Wymagania: Python, SQL, Git, Linux, REST API, Docker. Mile widziane: Django, PostgreSQL, znajomość angielskiego B2.",
+    "required_skills": ["python", "sql", "git", "linux", "rest api", "docker"],
+    "nice_to_have": ["django", "postgresql", "angielski"]
+  },
+  {
+    "id": 2,
+    "title": "IT Support Specialist",
+    "company": "NetCom",
+    "text": "Poszukujemy osoby na stanowisko IT Support Specialist. Wymagania: Windows, Active Directory, sieci komputerowe, helpdesk, troubleshooting, angielski B1.",
+    "required_skills": ["windows", "active directory", "sieci", "helpdesk", "troubleshooting", "angielski"],
+    "nice_to_have": ["powershell", "linux", "jira"]
+  },
+  {
+    "id": 3,
+    "title": "Data Analyst Intern",
+    "company": "DataWave",
+    "text": "Szukamy stażysty Data Analyst. Wymagania: Python, SQL, Excel, analiza danych, statystyka, angielski. Mile widziane: Power BI, pandas, numpy.",
+    "required_skills": ["python", "sql", "excel", "analiza danych", "statystyka", "angielski"],
+    "nice_to_have": ["power bi", "pandas", "numpy"]
+  },
+  {
+    "id": 4,
+    "title": "Java Developer Intern",
+    "company": "CodeForge",
+    "text": "Wymagania: Java, Git, OOP, Spring, SQL, podstawy testów jednostkowych. Mile widziane: Hibernate, Docker, angielski.",
+    "required_skills": ["java", "git", "oop", "spring", "sql", "testy jednostkowe"],
+    "nice_to_have": ["hibernate", "docker", "angielski"]
+  }
+]
