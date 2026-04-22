@@ -143,5 +143,6 @@ def fetch_offer(url):
             return  h2.parent.find('div').text.strip()
     
 
-fetch_offers(build_olx_url('krakow',''))
-print(0)
+def get_jobs_olx(city, query, filters=None):
+    url = build_olx_url(city, query, filters=filters)
+    return fetch_offers(url)

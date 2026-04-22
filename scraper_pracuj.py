@@ -154,8 +154,8 @@ def fetch_offer(url):
         print(f"Error fetching offer details: {e}")
         return "N/A"
 
-if __name__ == '__main__':
-    url = build_pracuj_url('krakow', 'python')
-    print(f"Szukam na urllu: {url}")
-    offers = fetch_offers(url)
-    print(f"Znaleziono {len(offers)} ofert.")
+
+def get_jobs_pracuj(city, query):
+    url = build_pracuj_url(city, query)
+    return fetch_offers(url)
+
