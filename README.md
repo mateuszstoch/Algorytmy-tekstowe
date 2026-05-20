@@ -282,7 +282,7 @@ Algorytmy-tekstowe-web/
 # 1. Klonowanie repozytorium
 
 ```bash
-git clone <LINK_DO_REPO>
+git clone https://github.com/mateuszstoch/Algorytmy-tekstowe.git
 ```
 
 ---
@@ -470,8 +470,8 @@ Algorytmy Tekstowe
 ```
 
 Autorzy:
-- [IMIĘ I NAZWISKO]
-- [IMIĘ I NAZWISKO]
-- [IMIĘ I NAZWISKO]
+- Mateusz Stoch
+- Kondrad Siemczyk
+- Julia Rzymowska
 - Adam Sokołowski
 
