@@ -49,11 +49,11 @@ Algorytmy-tekstowe/
 
 | Panel główny (Dashboard) | Ranking ofert |
 | :---: | :---: |
-| ![Dashboard](screenshots/dashboard.png) | ![Offers](screenshots/offers.png) |
+| ![Dashboard](dashboard.png) | ![Offers](offers.png) |
 
 | Analiza i rekomendacje | Statystyki technologii |
 | :---: | :---: |
-| ![Advisor](screenshots/advisor.png) | ![Chart](screenshots/chart.png) |
+| ![Advisor](advisor.png) | ![Chart](chart.png) |
 
 ## ⚙️ Instrukcja uruchomienia
 
