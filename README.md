@@ -471,7 +471,7 @@ Algorytmy Tekstowe
 
 Autorzy:
 - Mateusz Stoch
-- Kondrad Siemczyk
+- Konrad Siemczyk
 - Julia Rzymowska
 - Adam Sokołowski
 
